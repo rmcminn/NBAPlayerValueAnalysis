@@ -1,0 +1,36 @@
+Atlanta - 1	
+Boston 	- 2
+Brooklyn - 3	
+Charlotte - 4
+Chicago - 5
+Cleveland  - 6
+Dallas - 7
+Denver - 8	
+Detroit - 9	
+Golden State - 10	
+Houston - 11	
+Indiana - 12	
+L.A. Clippers - 13	
+L.A. Lakers - 14	
+Memphis - 15	
+Miami - 16	
+Milwaukee - 17	
+Minnesota - 18	
+New Orleans - 19	
+New York - 20	
+Oklahoma City - 21	
+Orlando - 22	
+Philadelphia - 23	
+Phoenix - 24	
+Portland - 25	
+Sacramento - 26	
+San Antonio - 27	
+Toronto - 28	
+Utah - 29
+Washington - 30
+
+PG - 1
+SG - 2
+SF - 3
+PF - 4
+C - 5
